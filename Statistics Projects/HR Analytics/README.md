@@ -1,4 +1,4 @@
-# HR analytics using EDA and Statistics
+# HR Analytics using EDA and Statistics
 
 ###
 
