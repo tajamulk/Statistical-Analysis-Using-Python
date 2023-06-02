@@ -25,49 +25,11 @@ HR analytics aims at answering the following questions:
 * Exploratory Data Analysis
 * Statistical Analysis
 
-
-
-## Acknowledgements
-
- - [](https://)
-
-
 ## Support
 
-For support, follow me on https://www.linkedin.com/in/tajamulk2/
-
-"/>
-
-###
-
-HR analytics aims at answering the following questions:
-1. What is the employee value and retention rate?
-2. What is the approximate attrition rate?
-3. How many employees deserve a promotion?
-4. What is the employee turnover rate?
-
-
-## Tech Stack
-
-**Language:** Python
-
-**Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Scipy
-
-
-## Appendix
-
-* Exploratory Data Analysis
-* Statistical Analysis
-
-
-
-## Acknowledgements
-
- - [](https://)
-
-
-## Support
-
-For support, follow me on https://www.linkedin.com/in/tajamulk2/
+For support, follow me on </a>
+    <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
+  </a>
 
 
