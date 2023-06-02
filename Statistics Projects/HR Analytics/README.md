@@ -27,7 +27,7 @@ HR analytics aims at answering the following questions:
 
 ## Support
 
-For support, follow me on </a>
+For support, follow and text me on </a>
     <a href="https://www.linkedin.com/in/tajamulk2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
