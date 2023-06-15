@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="https://export-download.canva.com/j0g_k/DAFgolj0g_k/371/0-2874814717291161132.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230602T103951Z&X-Amz-Expires=91081&X-Amz-Signature=351bef36a70997965a00f3738ac06a7580207f7f83ba35abcea3fa0630785d41&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27World%2520Cancer%2520Day.gif&response-expires=Sat%2C%2003%20Jun%202023%2011%3A57%3A52%20GMT"/>
+<img align="right" height="300" src="https://export-download.canva.com/j0g_k/DAFgolj0g_k/451/0/0003-8171049143743385593.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230614T165238Z&X-Amz-Expires=84390&X-Amz-Signature=f47b4814e4fd25a4a3845980a9460999b5215d357337d04c20d69427b56fb0ba&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27HR%2520Analytics%2520Banner.png&response-expires=Thu%2C%2015%20Jun%202023%2016%3A19%3A08%20GMT"/>
 
 ###
 
